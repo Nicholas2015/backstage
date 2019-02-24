@@ -1,4 +1,4 @@
-package com.nicholas.backstage.browser.service.impl;
+package com.nicholas.backstage.browser.config;
 
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
